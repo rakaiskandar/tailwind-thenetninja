@@ -1,2 +1,2 @@
 # tailwind-thenetninja
-Repository code that i learn tailwind from thenetninja
+Repository code learn Tailwind from youtube thenetninja
